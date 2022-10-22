@@ -128,7 +128,13 @@ author:
       url: "https://github.com/braceletboy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/rukman.sai"
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: https://stackoverflow.com/users/9062530/braceletboy
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/rukman-sai/
 
 # Site Footer
 footer:
