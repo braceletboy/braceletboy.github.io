@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default", "aqua", "air", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -108,7 +108,7 @@ author:
                       Hi! Welcome to my website. Here I talk about
                       mathematics, politics and economics with an underlying
                       common theme - **Data**
-  location         : India
+  location         : United States
   # email            : "rukman.sai@gmail.com"
   links:
     - label: "Email"
@@ -126,15 +126,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/braceletboy"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/rukman-sai/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rukman.sai"
     - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: https://stackoverflow.com/users/9062530/braceletboy
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/rukman-sai/
 
 # Site Footer
 footer:
