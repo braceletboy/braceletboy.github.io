@@ -39,7 +39,7 @@ featured: false
 
 hugoblox:
   ids:
-    doi: 
+    openreview: UeMpSkHyaR
 
 # links:
 #   - type: pdf
